@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente estou estudando front-end
 - 🌱 Estudando HTML, CSS e JavaScript
+- 🎓 Estudante de Engenharia de Software
 - 👯 Pronomes: ela/dela
 
 <div align="center">
