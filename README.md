@@ -1,7 +1,6 @@
 ### Olá, eu sou Naelly Freire!
 
-- 🔭 Atualmente estou estudando front-end
-- 🌱 Estudando HTML, CSS e JavaScript
+- 🔭 DevOps Analist
 - 🎓 Estudante de Engenharia de Software
 - 👯 Pronomes: ela/dela
 
